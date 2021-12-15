@@ -7,7 +7,7 @@ interface FormProps {
 
 export const Title = styled.h1`
   font-size: 48px;
-  color: #c77dff;
+  color: #7209b7;
   max-width: 450px;
   line-height: 56px;
   margin-top: 80px;
@@ -42,7 +42,7 @@ export const Form = styled.form<FormProps>`
     transition: background 0.2s;
 
     &:hover {
-      background: ${darken(0.03, "#7b2cbf")};
+      background: ${darken(0.03, "#c77dff")};
     }
   }
 `;
@@ -94,7 +94,7 @@ export const Repositories = styled.div`
 
       span {
         font-size: 18px;
-        color: #a8a8a3;
+        color: #c77dff;
         margin-top: 4px;
       }
     }
