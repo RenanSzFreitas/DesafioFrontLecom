@@ -48,7 +48,7 @@ export const RepositoryInfo = styled.section`
 
       span {
         font-size: 18px;
-        color: #737380;
+        color: #9d4edd;
         margin-top: 4px;
       }
     }
@@ -68,7 +68,7 @@ export const RepositoryInfo = styled.section`
 
       strong {
         font-size: 36px;
-        color: #3d3d4d;
+        color: #7b2cbf;
       }
 
       span {

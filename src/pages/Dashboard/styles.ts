@@ -7,7 +7,7 @@ interface FormProps {
 
 export const Title = styled.h1`
   font-size: 48px;
-  color: #3a3a3a;
+  color: #c77dff;
   max-width: 450px;
   line-height: 56px;
   margin-top: 80px;
@@ -27,7 +27,7 @@ export const Form = styled.form<FormProps>`
     color: #3a3a3a;
 
     &::placeholder {
-      color: #a8a8a3;
+      color: #c77dff;
     }
   }
 
@@ -42,7 +42,7 @@ export const Form = styled.form<FormProps>`
     transition: background 0.2s;
 
     &:hover {
-      background: ${darken(0.03, "#7209b7")};
+      background: ${darken(0.03, "#7b2cbf")};
     }
   }
 `;

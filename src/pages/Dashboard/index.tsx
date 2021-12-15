@@ -22,7 +22,7 @@ const Dashboard: React.FC = () => {
   const [inputError, setInputError] = useState("");
   const [repositories, setRepositories] = useState<Repository[]>(() => {
     const storagedRepositories = localStorage.getItem(
-      "@GithubExplorer:repositories",
+      "@consultgithub:repositories",
     );
 
     if (storagedRepositories) {
@@ -33,7 +33,7 @@ const Dashboard: React.FC = () => {
 
   useEffect(() => {
     localStorage.setItem(
-      "@GithubExplorer:repositories",
+      "@consultgithub:repositories",
       JSON.stringify(repositories),
     );
   }, [repositories]);
