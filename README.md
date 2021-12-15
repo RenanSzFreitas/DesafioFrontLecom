@@ -30,4 +30,14 @@ Essa é a aplicação Consult Github, nela o usuário pode pesquisar por reposit
   $ yarn start
 ```
 
+## :pencil: Como funciona
+```bash
+  # Buscando repositório:
+  $ exemplo1: facebook/react. (nome do perfil/nome do repositório)
+  $ exemplo2: vuejs/vue
+
+  # Ver informações do repositório:
+  $ clique no repositório adicionado  
+```
+
  Renan de Souza Freitas [Get in touch!](https://github.com/RenanSzFreitas)
