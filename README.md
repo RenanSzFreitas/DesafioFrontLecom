@@ -1,3 +1,8 @@
+<p align="center">
+<br />
+  <a href="https://consult-git-lecom.netlify.app/">*Demo do desafio*</a>
+</p>
+
 ## :page_with_curl: Sobre
 Desafio de Front-end proposto pela Lecom
 
@@ -10,19 +15,29 @@ Essa é a aplicação Consult Github, nela o usuário pode pesquisar por reposit
 ## :rocket: Começando
 ``` bash
   # Clonar o projeto:
-  $ git clone
+  $ git clone (https://github.com/RenanSzFreitas/DesafioFrontLecom)
 
   # Entrar no diretório:
   $ cd github_explorer
 ```
 
-## :gear: Iniciando front-end
+## :gear: Iniciando projeto front-end
 ```bash
   # Instalar as dependências:
   $ yarn
 
   # Rodar a aplicação:
   $ yarn start
+```
+
+## :pencil: Como funciona
+```bash
+  # Buscar por repositórios:
+    exemplo1: facebook/react. ("nome do perfil/nome do repositório")
+    exemplo2: vuejs/vue
+
+  # Ver informações do repositório:
+    clique no repositório adicionado  
 ```
 
  Renan de Souza Freitas [Get in touch!](https://github.com/RenanSzFreitas)
