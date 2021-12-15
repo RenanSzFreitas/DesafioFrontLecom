@@ -33,7 +33,7 @@ Essa é a aplicação Consult Github, nela o usuário pode pesquisar por reposit
 ## :pencil: Como funciona
 ```bash
   # Buscando repositório:
-    exemplo1: facebook/react. (*nome do perfil/nome do repositório*)
+    exemplo1: facebook/react. ("nome do perfil/nome do repositório")
     exemplo2: vuejs/vue
 
   # Ver informações do repositório:
