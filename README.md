@@ -21,7 +21,7 @@ Essa é a aplicação Consult Github, nela o usuário pode pesquisar por reposit
   $ cd github_explorer
 ```
 
-## :gear: Iniciando front-end
+## :gear: Iniciando projeto front-end
 ```bash
   # Instalar as dependências:
   $ yarn
