@@ -10,7 +10,7 @@ Essa é a aplicação Consult Github, nela o usuário pode pesquisar por reposit
 ## :rocket: Começando
 ``` bash
   # Clonar o projeto:
-  $ git clone
+  $ git clone (https://github.com/RenanSzFreitas/DesafioFrontLecom)
 
   # Entrar no diretório:
   $ cd github_explorer
